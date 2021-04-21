@@ -1,0 +1,13 @@
+Package: BronchiCellPred
+Type: Package
+Title: BronchiCellPred
+Version: 0.1.0
+Author: Cancan Qi
+Maintainer: Cancan Qi <tracyqican@gmail.com>
+Description: 
+    BronchiCellPred is used to predict cell proportion of bronchial biopies using bulk gene expression data.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: Seurat, tidyverse, reshape2, xbioc, MuSiC, bseqsc, ggplot2
+RoxygenNote: 7.1.1
