@@ -13,7 +13,7 @@ For additional details on methods and results please go our [manuscript](link to
 ## Installation
 
 library(devtools)
-install_github("xxx/BronchiCellPred")  (to be updated)
+install_github("CancanQi/BronchiCellPred") (to be updated)
 
 ## Quick start
 
