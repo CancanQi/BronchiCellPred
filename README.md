@@ -1,5 +1,6 @@
 # BronchiCellPred
-To predict bronchial cell proportions in bulk RNA-seq datasets
+To predict bronchial cell proportions in bulk RNA-seq datasets <br>
+https://github.com/CancanQi/BronchiCellPred/
 
 ![introduction](https://github.com/CancanQi/BronchiCellPred/blob/ca0893d545d6adcac28c81b3ff6fd9d911f31ef4/introduction.png)
 
@@ -13,7 +14,7 @@ For additional details on methods and results please go our [manuscript](link to
 ## Installation
 
 library(devtools)
-install_github("CancanQi/BronchiCellPred") (to be updated)
+install_github("CancanQi/BronchiCellPred")
 
 ## Quick start
 
