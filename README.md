@@ -15,6 +15,8 @@ For additional details on methods and results please go our [manuscript](link to
 ```R
 library(devtools)
 install_github("CancanQi/BronchiCellPred")
+## or 
+install_github("CancanQi/BronchiCellPred",ref="HEAD")
 ```
 
 ## Quick start
