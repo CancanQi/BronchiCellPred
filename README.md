@@ -12,9 +12,10 @@ Three cell type deconvolution methods were available in this package, including 
 For additional details on methods and results please go our [manuscript](link to be updated).
 
 ## Installation
-
+```R
 library(devtools)
 install_github("CancanQi/BronchiCellPred")
+```
 
 ## Quick start
 
